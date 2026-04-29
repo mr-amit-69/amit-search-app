@@ -1,2 +1,2 @@
 # amit-search-app
-Azure AI Search Application - TCS iON Internship
+Azure AI Search Application - TCS iON Internshi
